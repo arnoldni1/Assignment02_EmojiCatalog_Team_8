@@ -3,7 +3,7 @@
   {"id":2,"name":"Beaming Face","category":"Smileys & Emotion","unicode":"😁","description":"Big smile, often used for excited happiness."},
   {"id":3,"name":"Laughing Crying","category":"Smileys & Emotion","unicode":"😂","description":"Laughing so hard you're crying."},
   {"id":4,"name":"Rolling Laughing","category":"Smileys & Emotion","unicode":"🤣","description":"Extreme laughter."},
-  {"id":5,"name":"Face with Sunglasses","category":"People & Body","unicode":"😎","description":"Cool, confident, or sunny vibe."},
+  {"id":5,"name":"Face with Sunglasses","category":"Smileys & Emotion","unicode":"😎","description":"Cool, confident, or sunny vibe."},
   {"id":6,"name":"Thinking Face","category":"Smileys & Emotion","unicode":"🤔","description":"Pondering or considering."},
   {"id":7,"name":"Red Heart","category":"Symbols","unicode":"❤️","description":"Classic heart to show love or strong like."},
   {"id":8,"name":"Thumbs Up","category":"People & Body","unicode":"👍","description":"Approval or good job."},
